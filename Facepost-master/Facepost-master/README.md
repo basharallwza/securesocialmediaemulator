@@ -1,3 +1,0 @@
-# Facepost
-
-## Social Network Application
